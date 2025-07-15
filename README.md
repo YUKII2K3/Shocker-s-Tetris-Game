@@ -4,7 +4,7 @@
 
 **Project**: dark-tetris-dreamscape 
 
-**URL**: https://run.gptengineer.app/projects/74e703b4-f23c-4310-932c-2b80381e5dad/improve
+**URL**: [https://run.gptengineer.app/projects/74e703b4-f23c-4310-932c-2b80381e5dad/improve](https://shocker-s-tetris-game.vercel.app/)
 
 ## How can I edit this code?
 
